@@ -1,7 +1,7 @@
-# Simple Ionic App for [http://milon521.wordpress.com](milon521.wordpress.com)
+# Simple Ionic App for [http://milon.im](http://milon.im)
 
 This is a simple hybrid app using Ionic Framework. This app simply loads the
-posts from [http://milon521.wordpress.com](http://milon521.wordpress.com) using
+posts from [http://milon.im](http://milon.im) using
 WordPress public API and shows them in the App.
 
 ### Requirements
@@ -20,6 +20,11 @@ Just clone the app using following command-
 
 ```
 git clone https://github.com/milon521/blog-ionic-app.git
+```
+
+Then cd into the folder using-
+```
+cd blog-ionic-app
 ```
 
 Then install dependency using the following command-

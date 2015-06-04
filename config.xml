@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.freshlypressed421759" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>আগন্তুকের ব্লগ</name>
+  <name>milon.im</name>
   <description>
-        An Ionic Framework and Cordova project.
+        App for the site www.milon.im
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="milon521@gmail.com" href="http://milon.im/">
+      Nuruzzaman Milon
     </author>
   <content src="index.html"/>
   <access origin="*"/>
